@@ -1,1 +1,2 @@
-tomcat:8.5-jre8
+sonarqube:8.9-community
+sonarqube:9.9-community
