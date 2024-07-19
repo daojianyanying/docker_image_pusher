@@ -1,2 +1,6 @@
-sonarqube:8.9-community
-sonarqube:9.9-community
+postgres:15.7
+postgres:15.6
+postgres:16.3
+python:3.12.4
+python:3.11.9
+python:3.10.4
