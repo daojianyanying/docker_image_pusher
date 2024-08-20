@@ -1,6 +1,1 @@
-postgres:15.7
-postgres:15.6
-postgres:16.3
-python:3.12.4
-python:3.11.9
-python:3.10.4
+hub.zentao.net/app/zentao:18.5 
