@@ -1,1 +1,4 @@
-hub.zentao.net/app/zentao:18.5 
+hub.zentao.net/app/zentao:20.5
+hub.zentao.net/app/zentao:biz10.4
+hub.zentao.net/app/zentao:max5.4
+	hub.zentao.net/app/zentao:ipd2.4
