@@ -1,1 +1,6 @@
-hub.zentao.net/app/zentao:ipd2.4
+mysql:8.0
+mysql:8.1
+mysql:8.2
+mysql:8.3
+mysql:8.4
+
