@@ -1,2 +1,2 @@
-jenkins/jenkins:2.463.1-lts
+jenkins/jenkins:2.462.2-lts-jdk17
 
