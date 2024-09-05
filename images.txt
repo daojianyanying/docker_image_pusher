@@ -1,2 +1,2 @@
-redis:7.2.5
-redis:7.4
+jenkins/jenkins:2.463-lts-jdk17
+jenkins/jenkins:2.419-lts-jdk17
