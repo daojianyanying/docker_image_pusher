@@ -1,1 +1,1 @@
-argoproj/argocd-redis
+argocd/argocd-redis
