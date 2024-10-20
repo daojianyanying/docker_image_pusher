@@ -1,1 +1,2 @@
-jenkins/jenkins:2.481-jdk17
+flannel/flannel:v0.25.7
+flannel/flannel-cni-plugin:v1.5.1-flannel2
