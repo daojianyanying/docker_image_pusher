@@ -1,1 +1,4 @@
-busybox:1.31.0
+centos:7
+ubuntu:24.04
+ubuntu:22.04
+ubuntu:20.04
