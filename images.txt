@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:17.4.6-ce.0
+homeassistant/home-assistant:2025.1
