@@ -1,1 +1,1 @@
-quay.io/tigera/operator:v1.36.5
+ghcr.io/dockur/windows:4.11
